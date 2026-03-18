@@ -39,7 +39,7 @@ cd my-favorite-places-map
 2. Install the required package:
 pip install folium
 
-3.Run the project
+3. Run the project
 python ex.py
 
 
