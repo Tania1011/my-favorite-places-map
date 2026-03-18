@@ -33,7 +33,17 @@ A beginner-friendly Python project that uses **Object-Oriented Programming (OOP)
 ## ⚡ Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/my-favorite-places-map.git
+git clone https://github.com/Tania1011/my-favorite-places-map.git
 cd my-favorite-places-map
+
+2. Install the required package:
+pip install folium
+
+3.Run the project
+python ex.py
+
+
+
+
+
+
