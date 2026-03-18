@@ -42,6 +42,11 @@ pip install folium
 3. Run the project
 python ex.py
 
+## 📸 Screenshot
+
+![Map Screenshot](favorite_places.png)
+
+*Interactive map showing different place types with detailed popups*
 
 
 
